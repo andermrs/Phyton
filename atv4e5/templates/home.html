@@ -1,0 +1,31 @@
+<html>
+<head>
+    <title>{% block title %}
+            QUEM SOU EU?
+        {% endblock %}</title>
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+
+    <div class="menu">
+        <nav>
+            <ul>
+                <!-- url_for também é usado para navegar entre rotas do Flask -->
+                <li><a href="{{ url_for('home') }}">Home</a></li>
+                <li><a href="{{ url_for('page1') }}">Sobre Python</a></li>
+                <li><a href="{{ url_for('page2') }}">Sobre o Flask</a></li>
+                
+            </ul>
+        </nav>
+    </div>
+
+
+
+
+    {% block content %}
+    <div class="txt">
+        <p>Sou o André estudante do cotemig tenho 18 anos</p>
+    </div>
+    {% endblock %}
+</body>
+</html>

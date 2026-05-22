@@ -1,0 +1,41 @@
+body{
+
+    font-family: Arial, sans-serif;
+    display: flex;
+    background-color: #2b2b2b;
+    color: white;
+
+}
+
+.menu {
+    width: 200px;
+    background-color: #cc0000;
+    padding: 20px;
+    height: 100vh;
+    border-radius: 30px;
+}
+
+.conteudo {
+    flex: 1;
+    padding: 20px;
+}
+
+
+.menu ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+
+.menu ul li a {
+    text-decoration: none;
+    color: white;
+    display: block;
+    padding: 10px 0;
+}
+
+.txt{
+    padding-left: 50px;
+    font-weight: bold;
+    font-size: 30px;
+}
