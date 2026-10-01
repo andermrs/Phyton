@@ -1,0 +1,801 @@
+data,loja,regiao,produto,categoria,quantidade,preco_unitario
+2025-11-09,Loja Curitiba,Sul,Fone de Ouvido,Eletrônicos,5.0,299.16
+2025-07-21,Loja Curitiba,Sul,Mochila,Acessórios,6.0,200.05
+2025-12-24,Loja Brasília,Centro-Oeste,Notebook,Eletrônicos,1.0,3261.18
+2025-10-09,Loja Recife,Nordeste,Mesa de Escritório,Móveis,3.0,1262.17
+2025-02-04,Loja São Paulo,Sudeste,Mochila,Acessórios,7.0,168.03
+2025-12-25,Loja São Paulo,Sudeste,Mouse,Acessórios,10.0,77.21
+2025-11-05,Loja Curitiba,Sul,Fone de Ouvido,Eletrônicos,4.0,270.39
+2025-11-17,Loja Curitiba,Sul,Caderno,Papelaria,27.0,27.32
+2025-03-07,Loja São Paulo,Sudeste,Smartphone,Eletrônicos,2.0,2384.11
+2025-07-04,Loja Belo Horizonte,Sudeste,Smartphone,Eletrônicos,5.0,2117.3
+2025-06-22,Loja Recife,Nordeste,Cadeira de Escritório,Móveis,1.0,838.66
+2025-12-05,Loja Brasília,Centro-Oeste,Mochila,Acessórios,3.0,190.8
+2025-09-19,Loja Curitiba,Sul,Caneta,Papelaria,34.0,5.16
+2025-11-20,Loja Belo Horizonte,Sudeste,Mesa de Escritório,Móveis,2.0,1162.21
+2025-07-02,Loja Belo Horizonte,Sudeste,Fone de Ouvido,Eletrônicos,6.0,217.62
+2025-04-05,Loja Curitiba,Sul,Smartphone,Eletrônicos,2.0,2220.04
+2025-08-23,Loja Belo Horizonte,Sudeste,Fone de Ouvido,Eletrônicos,7.0,271.58
+2025-01-15,Loja Curitiba,Sul,Smartphone,Eletrônicos,2.0,1989.22
+2025-11-04,Loja Recife,Nordeste,Smartphone,Eletrônicos,3.0,2312.42
+2025-09-28,Loja São Paulo,Sudeste,Caneta,Papelaria,57.0,5.13
+2025-11-08,Loja São Paulo,Sudeste,Smartphone,Eletrônicos,3.0,2332.03
+2025-06-01,Loja São Paulo,Sudeste,Notebook,Eletrônicos,3.0,3744.15
+2025-12-26,Loja Brasília,Centro-Oeste,Mesa de Escritório,Móveis,3.0,1133.33
+2025-12-01,Loja Recife,Nordeste,Fone de Ouvido,Eletrônicos,8.0,217.66
+2025-11-16,Loja São Paulo,Sudeste,Mesa de Escritório,Móveis,,1148.78
+2025-03-28,Loja Brasília,Centro-Oeste,Smartphone,Eletrônicos,3.0,2356.49
+2025-07-17,Loja Curitiba,Sul,Smartphone,Eletrônicos,1.0,2104.61
+2025-01-17,Loja Curitiba,Sul,Cadeira de Escritório,Móveis,3.0,802.81
+2025-03-11,Loja Manaus,Norte,Caneta,Papelaria,56.0,4.27
+2025-10-04,Loja São Paulo,Sudeste,Cadeira de Escritório,Móveis,2.0,969.18
+2025-11-17,Loja São Paulo,Sudeste,Mesa de Escritório,Móveis,2.0,1279.27
+2025-12-26,Loja Curitiba,Sul,Mesa de Escritório,Móveis,1.0,1273.91
+2025-05-03,Loja São Paulo,Sudeste,Fone de Ouvido,Eletrônicos,4.0,269.35
+2025-06-25,Loja Recife,Nordeste,Fone de Ouvido,Eletrônicos,2.0,261.53
+2025-07-12,Loja São Paulo,Sudeste,Cadeira de Escritório,Móveis,4.0,833.39
+2025-03-16,Loja São Paulo,Sudeste,Notebook,Eletrônicos,3.0,3454.15
+2025-03-05,Loja São Paulo,Sudeste,Caneta,Papelaria,12.0,4.83
+2025-07-18,Loja Belo Horizonte,Sudeste,Caderno,Papelaria,3.0,30.27
+2025-04-06,Loja São Paulo,Sudeste,Fone de Ouvido,Eletrônicos,7.0,261.12
+2025-10-08,Loja São Paulo,Sudeste,Cadeira de Escritório,Móveis,4.0,818.46
+2025-07-21,Loja Brasília,Centro-Oeste,Fone de Ouvido,Eletrônicos,7.0,259.31
+2025-11-02,Loja Belo Horizonte,Sudeste,Caderno,Papelaria,5.0,22.98
+2025-10-13,Loja Belo Horizonte,Sudeste,Caneta,Papelaria,10.0,5.6
+2025-05-17,Loja São Paulo,Sudeste,Notebook,Eletrônicos,1.0,3314.9
+2025-11-04,Loja Belo Horizonte,Sudeste,Cadeira de Escritório,Móveis,4.0,884.07
+2025-11-09,Loja São Paulo,Sudeste,Notebook,Eletrônicos,4.0,3798.47
+2025-06-10,Loja Curitiba,Sul,Mesa de Escritório,Móveis,3.0,1236.94
+2025-05-19,Loja São Paulo,Sudeste,Fone de Ouvido,Eletrônicos,1.0,251.89
+2025-10-28,Loja Brasília,Centro-Oeste,Cadeira de Escritório,Móveis,1.0,850.73
+2025-03-24,Loja Manaus,Norte,Mesa de Escritório,Móveis,3.0,1194.58
+2025-03-06,Loja São Paulo,Sudeste,Fone de Ouvido,Eletrônicos,8.0,238.47
+2025-01-01,Loja São Paulo,Sudeste,Cadeira de Escritório,Móveis,3.0,819.44
+2025-11-02,Loja São Paulo,Sudeste,Caneta,Papelaria,10.0,5.59
+2025-10-17,Loja Curitiba,Sul,Mochila,Acessórios,1.0,178.44
+2025-10-05,Loja São Paulo,Sudeste,Notebook,Eletrônicos,1.0,3279.98
+2025-11-07,Loja Brasília,Centro-Oeste,Cadeira de Escritório,Móveis,3.0,814.89
+2025-07-24,Loja Recife,Nordeste,Mochila,Acessórios,9.0,195.85
+2025-09-25,Loja Brasília,Centro-Oeste,Mesa de Escritório,Móveis,,1264.86
+2025-03-24,Loja Curitiba,Sul,Smartphone,Eletrônicos,2.0,2298.62
+2025-02-08,Loja Manaus,Norte,Caderno,Papelaria,23.0,24.48
+2025-10-18,Loja São Paulo,Sudeste,Smartphone,Eletrônicos,1.0,2300.91
+2025-07-18,Loja Belo Horizonte,Sudeste,Notebook,Eletrônicos,4.0,3319.8
+2025-08-06,Loja Belo Horizonte,Sudeste,Caderno,Papelaria,27.0,24.48
+2025-11-16,Loja Manaus,Norte,Mesa de Escritório,Móveis,3.0,1293.1
+2025-09-15,Loja Curitiba,Sul,Caneta,Papelaria,54.0,5.35
+2025-08-12,Loja Brasília,Centro-Oeste,Cadeira de Escritório,Móveis,3.0,783.23
+2025-08-22,Loja São Paulo,Sudeste,Mochila,Acessórios,5.0,167.68
+2025-05-19,Loja Manaus,Norte,Cadeira de Escritório,Móveis,2.0,857.39
+2025-01-15,Loja Curitiba,Sul,Caneta,Papelaria,56.0,5.69
+2025-07-21,Loja Curitiba,Sul,Notebook,Eletrônicos,3.0,2963.64
+2025-04-22,Loja Manaus,Norte,Notebook,Eletrônicos,1.0,3577.93
+2025-06-16,Loja Belo Horizonte,Sudeste,Mochila,Acessórios,10.0,160.18
+2025-11-08,Loja Belo Horizonte,Sudeste,Mochila,Acessórios,1.0,170.87
+2025-04-22,Loja Curitiba,Sul,Mouse,Acessórios,8.0,87.38
+2025-01-21,Loja São Paulo,Sudeste,Fone de Ouvido,Eletrônicos,2.0,241.59
+2025-05-28,Loja Belo Horizonte,Sudeste,Notebook,Eletrônicos,3.0,3350.54
+2025-05-05,Loja São Paulo,Sudeste,Mouse,Acessórios,5.0,90.05
+2025-10-12,Loja São Paulo,Sudeste,Caderno,Papelaria,14.0,23.93
+2025-08-26,Loja Brasília,Centro-Oeste,Fone de Ouvido,Eletrônicos,6.0,220.75
+2025-11-15,Loja Curitiba,Sul,Caneta,Papelaria,47.0,5.31
+2025-10-27,Loja Belo Horizonte,Sudeste,Mouse,Acessórios,5.0,95.42
+2025-06-01,Loja Belo Horizonte,Sudeste,Fone de Ouvido,Eletrônicos,8.0,266.86
+2025-11-01,Loja Belo Horizonte,Sudeste,Caneta,Papelaria,32.0,4.38
+2025-03-23,Loja Curitiba,Sul,Mochila,Acessórios,2.0,184.3
+2025-01-11,Loja Manaus,Norte,Mesa de Escritório,Móveis,1.0,1264.89
+2025-02-15,Loja Manaus,Norte,Caderno,Papelaria,7.0,22.94
+2025-10-12,Loja Belo Horizonte,Sudeste,Fone de Ouvido,Eletrônicos,6.0,250.18
+2025-07-12,Loja Belo Horizonte,Sudeste,Mouse,Acessórios,7.0,89.16
+2025-03-27,Loja Belo Horizonte,Sudeste,Mouse,Acessórios,5.0,103.26
+2025-08-03,Loja Curitiba,Sul,Mouse,Acessórios,6.0,103.86
+2025-03-22,Loja Belo Horizonte,Sudeste,Caneta,Papelaria,,4.33
+2025-10-25,Loja Recife,Nordeste,Notebook,Eletrônicos,3.0,4198.3
+2025-07-19,Loja Curitiba,Sul,Cadeira de Escritório,Móveis,1.0,787.76
+2025-06-12,Loja Belo Horizonte,Sudeste,Mesa de Escritório,Móveis,1.0,1294.14
+2025-05-05,Loja Belo Horizonte,Sudeste,Mouse,Acessórios,6.0,96.99
+2025-09-20,Loja Belo Horizonte,Sudeste,Mesa de Escritório,Móveis,2.0,1104.41
+2025-06-14,Loja São Paulo,Sudeste,Mesa de Escritório,Móveis,3.0,1247.35
+2025-02-05,Loja São Paulo,Sudeste,Smartphone,Eletrônicos,3.0,2181.07
+2025-02-11,Loja Recife,Nordeste,Mochila,Acessórios,8.0,187.98
+2025-12-27,Loja Belo Horizonte,Sudeste,Cadeira de Escritório,Móveis,3.0,865.69
+2025-12-08,Loja São Paulo,Sudeste,Notebook,Eletrônicos,2.0,3834.98
+2025-10-05,Loja Curitiba,Sul,Mouse,Acessórios,8.0,90.54
+2025-04-20,Loja Recife,Nordeste,Smartphone,Eletrônicos,4.0,2170.45
+2025-12-06,Loja São Paulo,Sudeste,Notebook,Eletrônicos,3.0,3806.9
+2025-11-26,Loja Brasília,Centro-Oeste,Notebook,Eletrônicos,1.0,3662.51
+2025-10-25,Loja Manaus,Norte,Mesa de Escritório,Móveis,2.0,1270.25
+2025-07-28,Loja Curitiba,Sul,Notebook,Eletrônicos,2.0,3313.92
+2025-05-26,Loja Recife,Nordeste,Mochila,Acessórios,8.0,164.95
+2025-02-07,Loja São Paulo,Sudeste,Mesa de Escritório,Móveis,3.0,1145.5
+2025-12-06,Loja Manaus,Norte,Fone de Ouvido,Eletrônicos,5.0,237.58
+2025-07-10,Loja Belo Horizonte,Sudeste,Notebook,Eletrônicos,4.0,3720.14
+2025-04-14,Loja Manaus,Norte,Mesa de Escritório,Móveis,2.0,1293.69
+2025-05-25,Loja Curitiba,Sul,Smartphone,Eletrônicos,1.0,2172.7
+2025-09-21,Loja São Paulo,Sudeste,Mouse,Acessórios,8.0,100.3
+2025-03-19,Loja São Paulo,Sudeste,Fone de Ouvido,Eletrônicos,7.0,
+2025-12-25,Loja Recife,Nordeste,Mesa de Escritório,Móveis,1.0,1223.37
+2025-11-19,Loja Curitiba,Sul,Notebook,Eletrônicos,1.0,
+2025-10-11,Loja São Paulo,Sudeste,Smartphone,Eletrônicos,2.0,2477.27
+2025-07-12,Loja Recife,Nordeste,Smartphone,Eletrônicos,5.0,2189.26
+2025-09-15,Loja Brasília,Centro-Oeste,Notebook,Eletrônicos,3.0,3535.33
+2025-09-03,Loja Curitiba,Sul,Caneta,Papelaria,59.0,4.86
+2025-10-21,Loja Belo Horizonte,Sudeste,Mouse,Acessórios,11.0,83.59
+2025-02-19,Loja São Paulo,Sudeste,Mouse,Acessórios,7.0,79.43
+2025-06-21,Loja Brasília,Centro-Oeste,Fone de Ouvido,Eletrônicos,6.0,262.66
+2025-01-15,Loja Belo Horizonte,Sudeste,Mochila,Acessórios,4.0,168.72
+2025-07-22,Loja Brasília,Centro-Oeste,Mesa de Escritório,Móveis,1.0,1493.71
+2025-05-27,Loja Belo Horizonte,Sudeste,Notebook,Eletrônicos,2.0,3195.9
+2025-03-16,Loja Curitiba,Sul,Notebook,Eletrônicos,3.0,3147.93
+2025-02-13,Loja Belo Horizonte,Sudeste,Mesa de Escritório,Móveis,1.0,1248.97
+2025-09-03,Loja São Paulo,Sudeste,Cadeira de Escritório,Móveis,1.0,953.99
+2025-03-22,Loja Recife,Nordeste,Notebook,Eletrônicos,1.0,3518.09
+2025-12-26,Loja Curitiba,Sul,Mouse,Acessórios,9.0,94.12
+2025-09-20,Loja Curitiba,Sul,Caneta,Papelaria,55.0,4.26
+2025-05-25,Loja Manaus,Norte,Mesa de Escritório,Móveis,3.0,1134.96
+2025-09-25,Loja Manaus,Norte,Mouse,Acessórios,5.0,82.27
+2025-01-23,Loja Brasília,Centro-Oeste,Mouse,Acessórios,8.0,76.36
+2025-12-15,Loja São Paulo,Sudeste,Mouse,Acessórios,12.0,90.84
+2025-07-03,Loja Curitiba,Sul,Fone de Ouvido,Eletrônicos,5.0,205.14
+2025-11-01,Loja Brasília,Centro-Oeste,Mochila,Acessórios,3.0,160.96
+2025-02-06,Loja Belo Horizonte,Sudeste,Mesa de Escritório,Móveis,2.0,1148.43
+2025-07-13,Loja São Paulo,Sudeste,Caneta,Papelaria,45.0,4.67
+2025-07-21,Loja Brasília,Centro-Oeste,Mochila,Acessórios,,185.71
+2025-12-13,Loja Curitiba,Sul,Smartphone,Eletrônicos,5.0,2253.78
+2025-09-01,Loja Curitiba,Sul,Mesa de Escritório,Móveis,3.0,1285.8
+2025-07-06,Loja Manaus,Norte,Smartphone,Eletrônicos,1.0,2332.42
+2025-04-28,Loja Curitiba,Sul,Fone de Ouvido,Eletrônicos,6.0,272.82
+2025-05-28,Loja Belo Horizonte,Sudeste,Cadeira de Escritório,Móveis,2.0,849.87
+2025-08-11,Loja Belo Horizonte,Sudeste,Mochila,Acessórios,6.0,184.37
+2025-07-23,Loja Belo Horizonte,Sudeste,Mochila,Acessórios,3.0,187.37
+2025-01-21,Loja São Paulo,Sudeste,Cadeira de Escritório,Móveis,2.0,859.63
+2025-11-27,Loja Brasília,Centro-Oeste,Fone de Ouvido,Eletrônicos,3.0,242.06
+2025-12-25,Loja Brasília,Centro-Oeste,Mesa de Escritório,Móveis,1.0,1168.09
+2025-03-18,Loja Belo Horizonte,Sudeste,Mouse,Acessórios,10.0,84.11
+2025-08-12,Loja Belo Horizonte,Sudeste,Mouse,Acessórios,2.0,93.04
+2025-02-18,Loja Brasília,Centro-Oeste,Fone de Ouvido,Eletrônicos,4.0,248.12
+2025-10-09,Loja São Paulo,Sudeste,Smartphone,Eletrônicos,1.0,2083.28
+2025-05-10,Loja Curitiba,Sul,Caneta,Papelaria,13.0,4.74
+2025-10-18,Loja Belo Horizonte,Sudeste,Fone de Ouvido,Eletrônicos,3.0,225.79
+2025-10-16,Loja Recife,Nordeste,Smartphone,Eletrônicos,5.0,2372.28
+2025-11-17,Loja São Paulo,Sudeste,Notebook,Eletrônicos,4.0,3522.01
+2025-02-11,Loja Recife,Nordeste,Cadeira de Escritório,Móveis,2.0,791.33
+2025-12-12,Loja Belo Horizonte,Sudeste,Cadeira de Escritório,Móveis,3.0,904.98
+2025-04-01,Loja Curitiba,Sul,Caderno,Papelaria,30.0,23.88
+2025-01-17,Loja São Paulo,Sudeste,Smartphone,Eletrônicos,2.0,1952.46
+2025-08-17,Loja Belo Horizonte,Sudeste,Caneta,Papelaria,57.0,5.41
+2025-06-27,Loja Curitiba,Sul,Caneta,Papelaria,10.0,
+2025-11-15,Loja São Paulo,Sudeste,Mesa de Escritório,Móveis,1.0,1160.75
+2025-11-14,Loja São Paulo,Sudeste,Smartphone,Eletrônicos,2.0,2207.25
+2025-05-02,Loja São Paulo,Sudeste,Mesa de Escritório,Móveis,1.0,1309.69
+2025-12-06,Loja Belo Horizonte,Sudeste,Caneta,Papelaria,50.0,5.01
+2025-05-10,Loja São Paulo,Sudeste,Cadeira de Escritório,Móveis,,768.46
+2025-08-11,Loja Manaus,Norte,Fone de Ouvido,Eletrônicos,4.0,260.88
+2025-04-11,Loja Belo Horizonte,Sudeste,Mesa de Escritório,Móveis,3.0,1153.44
+2025-12-12,Loja Brasília,Centro-Oeste,Cadeira de Escritório,Móveis,4.0,978.38
+2025-03-22,Loja Manaus,Norte,Cadeira de Escritório,Móveis,4.0,849.92
+2025-01-04,Loja São Paulo,Sudeste,Cadeira de Escritório,Móveis,4.0,698.02
+2025-07-10,Loja Recife,Nordeste,Fone de Ouvido,Eletrônicos,5.0,257.15
+2025-12-05,Loja Brasília,Centro-Oeste,Caneta,Papelaria,11.0,5.78
+2025-12-09,Loja Recife,Nordeste,Mesa de Escritório,Móveis,3.0,1351.29
+2025-11-20,Loja Belo Horizonte,Sudeste,Mesa de Escritório,Móveis,2.0,1375.77
+2025-12-02,Loja Belo Horizonte,Sudeste,Caderno,Papelaria,28.0,22.96
+2025-12-10,Loja São Paulo,Sudeste,Cadeira de Escritório,Móveis,4.0,912.03
+2025-08-01,Loja Curitiba,Sul,Notebook,Eletrônicos,1.0,3297.84
+2025-05-27,Loja Manaus,Norte,Mochila,Acessórios,5.0,183.23
+2025-11-21,Loja Manaus,Norte,Notebook,Eletrônicos,1.0,3143.57
+2025-10-07,Loja São Paulo,Sudeste,Caderno,Papelaria,3.0,23.71
+2025-06-06,Loja Recife,Nordeste,Fone de Ouvido,Eletrônicos,8.0,236.48
+2025-02-03,Loja Belo Horizonte,Sudeste,Smartphone,Eletrônicos,5.0,2358.15
+2025-11-14,Loja Brasília,Centro-Oeste,Notebook,Eletrônicos,4.0,3724.2
+2025-04-22,Loja São Paulo,Sudeste,Mouse,Acessórios,11.0,91.99
+2025-12-17,Loja Manaus,Norte,Cadeira de Escritório,Móveis,3.0,758.17
+2025-04-25,Loja Brasília,Centro-Oeste,Cadeira de Escritório,Móveis,3.0,828.81
+2025-02-10,Loja São Paulo,Sudeste,Caneta,Papelaria,60.0,4.7
+2025-11-08,Loja São Paulo,Sudeste,Notebook,Eletrônicos,3.0,3743.51
+2025-03-14,Loja Brasília,Centro-Oeste,Caderno,Papelaria,20.0,27.36
+2025-03-06,Loja São Paulo,Sudeste,Mesa de Escritório,Móveis,1.0,1301.41
+2025-09-28,Loja Curitiba,Sul,Mesa de Escritório,Móveis,3.0,1127.5
+2025-12-06,Loja Brasília,Centro-Oeste,Smartphone,Eletrônicos,5.0,1717.84
+2025-03-14,Loja Curitiba,Sul,Mouse,Acessórios,9.0,77.28
+2025-05-15,Loja Belo Horizonte,Sudeste,Fone de Ouvido,Eletrônicos,4.0,278.43
+2025-11-02,Loja Belo Horizonte,Sudeste,Caneta,Papelaria,16.0,4.84
+2025-12-14,Loja São Paulo,Sudeste,Caneta,Papelaria,6.0,4.7
+2025-08-13,Loja Manaus,Norte,Cadeira de Escritório,Móveis,3.0,961.7
+2025-03-08,Loja Belo Horizonte,Sudeste,Smartphone,Eletrônicos,4.0,2422.67
+2025-01-04,Loja São Paulo,Sudeste,Fone de Ouvido,Eletrônicos,7.0,250.49
+2025-04-02,Loja Belo Horizonte,Sudeste,Mochila,Acessórios,10.0,175.77
+2025-03-01,Loja Manaus,Norte,Mouse,Acessórios,6.0,89.05
+2025-10-14,Loja São Paulo,Sudeste,Mouse,Acessórios,,91.64
+2025-02-03,Loja Brasília,Centro-Oeste,Fone de Ouvido,Eletrônicos,6.0,282.0
+2025-08-27,Loja Recife,Nordeste,Caderno,Papelaria,10.0,25.84
+2025-10-07,Loja Brasília,Centro-Oeste,Smartphone,Eletrônicos,5.0,2327.78
+2025-09-19,Loja Manaus,Norte,Caneta,Papelaria,7.0,5.47
+2025-03-19,Loja Brasília,Centro-Oeste,Cadeira de Escritório,Móveis,3.0,770.46
+2025-11-14,Loja Manaus,Norte,Caneta,Papelaria,57.0,5.3
+2025-10-25,Loja São Paulo,Sudeste,Caneta,Papelaria,41.0,4.88
+2025-11-04,Loja Brasília,Centro-Oeste,Mouse,Acessórios,12.0,71.88
+2025-03-07,Loja Curitiba,Sul,Mesa de Escritório,Móveis,1.0,995.7
+2025-02-08,Loja Curitiba,Sul,Cadeira de Escritório,Móveis,3.0,780.77
+2025-12-04,Loja Brasília,Centro-Oeste,Mesa de Escritório,Móveis,3.0,1251.0
+2025-06-09,Loja Manaus,Norte,Smartphone,Eletrônicos,,2220.03
+2025-05-09,Loja Recife,Nordeste,Smartphone,Eletrônicos,5.0,2232.45
+2025-07-22,Loja Curitiba,Sul,Mesa de Escritório,Móveis,2.0,1387.29
+2025-10-09,Loja Belo Horizonte,Sudeste,Mochila,Acessórios,7.0,161.73
+2025-12-25,Loja Belo Horizonte,Sudeste,Mesa de Escritório,Móveis,2.0,1197.37
+2025-05-22,Loja Belo Horizonte,Sudeste,Mochila,Acessórios,9.0,184.38
+2025-12-26,Loja Belo Horizonte,Sudeste,Smartphone,Eletrônicos,1.0,2070.42
+2025-01-03,Loja São Paulo,Sudeste,Mesa de Escritório,Móveis,1.0,1202.72
+2025-08-28,Loja São Paulo,Sudeste,Caderno,Papelaria,4.0,21.8
+2025-09-18,Loja Recife,Nordeste,Cadeira de Escritório,Móveis,3.0,945.87
+2025-02-28,Loja Belo Horizonte,Sudeste,Notebook,Eletrônicos,1.0,3309.15
+2025-03-10,Loja Manaus,Norte,Notebook,Eletrônicos,2.0,4068.79
+2025-06-27,Loja Curitiba,Sul,Mouse,Acessórios,11.0,89.77
+2025-12-17,Loja São Paulo,Sudeste,Caderno,Papelaria,12.0,27.06
+2025-09-03,Loja São Paulo,Sudeste,Fone de Ouvido,Eletrônicos,2.0,248.93
+2025-12-12,Loja São Paulo,Sudeste,Fone de Ouvido,Eletrônicos,1.0,249.39
+2025-11-04,Loja Manaus,Norte,Notebook,Eletrônicos,1.0,3336.47
+2025-07-27,Loja São Paulo,Sudeste,Mouse,Acessórios,11.0,90.86
+2025-11-09,Loja Curitiba,Sul,Notebook,Eletrônicos,3.0,3589.04
+2025-01-07,Loja Manaus,Norte,Caneta,Papelaria,60.0,4.69
+2025-02-16,Loja Manaus,Norte,Fone de Ouvido,Eletrônicos,2.0,247.5
+2025-11-12,Loja São Paulo,Sudeste,Cadeira de Escritório,Móveis,2.0,808.51
+2025-11-03,Loja São Paulo,Sudeste,Fone de Ouvido,Eletrônicos,2.0,295.99
+2025-04-23,Loja São Paulo,Sudeste,Mochila,Acessórios,4.0,178.71
+2025-08-24,Loja São Paulo,Sudeste,Notebook,Eletrônicos,3.0,3932.67
+2025-09-21,Loja São Paulo,Sudeste,Cadeira de Escritório,Móveis,4.0,836.7
+2025-12-18,Loja Curitiba,Sul,Fone de Ouvido,Eletrônicos,3.0,255.19
+2025-09-12,Loja Brasília,Centro-Oeste,Fone de Ouvido,Eletrônicos,7.0,223.57
+2025-06-16,Loja Curitiba,Sul,Smartphone,Eletrônicos,4.0,2121.32
+2025-06-15,Loja Curitiba,Sul,Mouse,Acessórios,4.0,91.52
+2025-07-05,Loja São Paulo,Sudeste,Cadeira de Escritório,Móveis,4.0,957.85
+2025-10-03,Loja Brasília,Centro-Oeste,Cadeira de Escritório,Móveis,2.0,865.09
+2025-12-08,Loja Curitiba,Sul,Cadeira de Escritório,Móveis,1.0,944.09
+2025-07-13,Loja Brasília,Centro-Oeste,Mouse,Acessórios,12.0,94.61
+2025-04-05,Loja Manaus,Norte,Cadeira de Escritório,Móveis,4.0,960.66
+2025-04-03,Loja Belo Horizonte,Sudeste,Cadeira de Escritório,Móveis,1.0,845.99
+2025-11-24,Loja São Paulo,Sudeste,Fone de Ouvido,Eletrônicos,8.0,297.8
+2025-11-11,Loja São Paulo,Sudeste,Fone de Ouvido,Eletrônicos,8.0,240.29
+2025-02-17,Loja Belo Horizonte,Sudeste,Notebook,Eletrônicos,4.0,3285.39
+2025-02-15,Loja Manaus,Norte,Caderno,Papelaria,9.0,22.58
+2025-09-21,Loja Belo Horizonte,Sudeste,Notebook,Eletrônicos,3.0,4152.69
+2025-03-21,Loja Recife,Nordeste,Fone de Ouvido,Eletrônicos,5.0,266.39
+2025-11-09,Loja Curitiba,Sul,Smartphone,Eletrônicos,4.0,2141.19
+2025-05-24,Loja São Paulo,Sudeste,Fone de Ouvido,Eletrônicos,5.0,274.98
+2025-03-11,Loja Belo Horizonte,Sudeste,Caneta,Papelaria,40.0,5.28
+2025-12-24,Loja Recife,Nordeste,Caderno,Papelaria,16.0,28.93
+2025-03-12,Loja Recife,Nordeste,Mouse,Acessórios,9.0,78.86
+2025-05-04,Loja Belo Horizonte,Sudeste,Cadeira de Escritório,Móveis,3.0,831.96
+2025-03-22,Loja São Paulo,Sudeste,Mouse,Acessórios,1.0,86.67
+2025-02-01,Loja Recife,Nordeste,Notebook,Eletrônicos,1.0,2947.37
+2025-01-22,Loja São Paulo,Sudeste,Mesa de Escritório,Móveis,3.0,1301.79
+2025-01-02,Loja Manaus,Norte,Mochila,Acessórios,10.0,
+2025-03-06,Loja São Paulo,Sudeste,Mesa de Escritório,Móveis,2.0,1271.0
+2025-01-17,Loja São Paulo,Sudeste,Mouse,Acessórios,3.0,106.99
+2025-09-27,Loja Curitiba,Sul,Fone de Ouvido,Eletrônicos,7.0,242.94
+2025-10-12,Loja Curitiba,Sul,Notebook,Eletrônicos,1.0,3382.08
+2025-06-04,Loja Curitiba,Sul,Caneta,Papelaria,26.0,5.05
+2025-05-07,Loja Belo Horizonte,Sudeste,Notebook,Eletrônicos,2.0,3776.43
+2025-08-26,Loja Manaus,Norte,Caneta,Papelaria,5.0,4.77
+2025-12-21,Loja Curitiba,Sul,Caneta,Papelaria,50.0,4.75
+2025-11-03,Loja Curitiba,Sul,Mochila,Acessórios,6.0,195.22
+2025-01-11,Loja Belo Horizonte,Sudeste,Mesa de Escritório,Móveis,1.0,1236.35
+2025-03-08,Loja São Paulo,Sudeste,Mouse,Acessórios,7.0,75.28
+2025-04-05,Loja Curitiba,Sul,Smartphone,Eletrônicos,1.0,1984.33
+2025-04-24,Loja São Paulo,Sudeste,Cadeira de Escritório,Móveis,2.0,952.08
+2025-09-18,Loja Recife,Nordeste,Smartphone,Eletrônicos,3.0,2270.74
+2025-06-06,Loja São Paulo,Sudeste,Caneta,Papelaria,24.0,4.7
+2025-01-19,Loja Manaus,Norte,Caneta,Papelaria,51.0,4.93
+2025-06-12,Loja Curitiba,Sul,Mochila,Acessórios,3.0,180.19
+2025-08-02,Loja Brasília,Centro-Oeste,Caneta,Papelaria,12.0,5.29
+2025-02-13,Loja Curitiba,Sul,Fone de Ouvido,Eletrônicos,5.0,222.83
+2025-11-06,Loja São Paulo,Sudeste,Notebook,Eletrônicos,4.0,3264.53
+2025-01-07,Loja Brasília,Centro-Oeste,Mouse,Acessórios,5.0,91.97
+2025-12-25,Loja Recife,Nordeste,Mesa de Escritório,Móveis,1.0,1190.42
+2025-02-20,Loja Recife,Nordeste,Notebook,Eletrônicos,4.0,3660.12
+2025-11-04,Loja Belo Horizonte,Sudeste,Mouse,Acessórios,6.0,81.15
+2025-12-24,Loja Recife,Nordeste,Mouse,Acessórios,3.0,92.57
+2025-12-17,Loja Brasília,Centro-Oeste,Mesa de Escritório,Móveis,2.0,1304.79
+2025-11-25,Loja Curitiba,Sul,Caneta,Papelaria,22.0,5.19
+2025-11-21,Loja Belo Horizonte,Sudeste,Notebook,Eletrônicos,4.0,3538.95
+2025-09-10,Loja Recife,Nordeste,Notebook,Eletrônicos,2.0,3473.15
+2025-11-15,Loja Recife,Nordeste,Fone de Ouvido,Eletrônicos,5.0,233.3
+2025-03-15,Loja Manaus,Norte,Caderno,Papelaria,17.0,24.86
+2025-08-21,Loja Belo Horizonte,Sudeste,Smartphone,Eletrônicos,2.0,2421.71
+2025-08-07,Loja Belo Horizonte,Sudeste,Notebook,Eletrônicos,2.0,3466.67
+2025-12-10,Loja Brasília,Centro-Oeste,Caneta,Papelaria,11.0,4.64
+2025-07-07,Loja Curitiba,Sul,Caneta,Papelaria,41.0,4.8
+2025-06-09,Loja Recife,Nordeste,Caneta,Papelaria,47.0,5.08
+2025-09-05,Loja Belo Horizonte,Sudeste,Mochila,Acessórios,10.0,174.62
+2025-04-02,Loja São Paulo,Sudeste,Mochila,Acessórios,4.0,186.99
+2025-03-27,Loja Recife,Nordeste,Caderno,Papelaria,10.0,26.05
+2025-07-03,Loja São Paulo,Sudeste,Mesa de Escritório,Móveis,2.0,1285.34
+2025-06-25,Loja São Paulo,Sudeste,Mochila,Acessórios,7.0,200.5
+2025-04-01,Loja Curitiba,Sul,Cadeira de Escritório,Móveis,4.0,917.72
+2025-06-22,Loja Recife,Nordeste,Notebook,Eletrônicos,1.0,3238.41
+2025-06-10,Loja Brasília,Centro-Oeste,Caneta,Papelaria,18.0,4.64
+2025-05-15,Loja Belo Horizonte,Sudeste,Fone de Ouvido,Eletrônicos,3.0,248.48
+2025-06-08,Loja São Paulo,Sudeste,Mouse,Acessórios,4.0,86.75
+2025-10-14,Loja Manaus,Norte,Cadeira de Escritório,Móveis,2.0,772.59
+2025-05-13,Loja São Paulo,Sudeste,Mochila,Acessórios,9.0,
+2025-12-15,Loja São Paulo,Sudeste,Notebook,Eletrônicos,1.0,3367.14
+2025-12-12,Loja Belo Horizonte,Sudeste,Caderno,Papelaria,25.0,23.66
+2025-07-16,Loja Curitiba,Sul,Mesa de Escritório,Móveis,2.0,1169.68
+2025-05-24,Loja Brasília,Centro-Oeste,Mesa de Escritório,Móveis,2.0,1313.13
+2025-08-13,Loja Recife,Nordeste,Fone de Ouvido,Eletrônicos,6.0,253.98
+2025-11-11,Loja Recife,Nordeste,Mouse,Acessórios,2.0,107.8
+2025-10-04,Loja São Paulo,Sudeste,Cadeira de Escritório,Móveis,3.0,861.59
+2025-11-11,Loja Belo Horizonte,Sudeste,Mochila,Acessórios,3.0,175.82
+2025-08-04,Loja Curitiba,Sul,Cadeira de Escritório,Móveis,3.0,850.28
+2025-09-06,Loja São Paulo,Sudeste,Notebook,Eletrônicos,3.0,3571.82
+2025-05-27,Loja Belo Horizonte,Sudeste,Mochila,Acessórios,7.0,186.27
+2025-10-03,Loja Belo Horizonte,Sudeste,Smartphone,Eletrônicos,2.0,2565.5
+2025-04-14,Loja São Paulo,Sudeste,Fone de Ouvido,Eletrônicos,4.0,233.09
+2025-10-24,Loja Curitiba,Sul,Mochila,Acessórios,5.0,192.37
+2025-12-27,Loja Recife,Nordeste,Mouse,Acessórios,1.0,91.5
+2025-03-05,Loja São Paulo,Sudeste,Mouse,Acessórios,9.0,78.69
+2025-09-05,Loja Curitiba,Sul,Cadeira de Escritório,Móveis,1.0,902.41
+2025-02-11,Loja Recife,Nordeste,Caneta,Papelaria,30.0,5.51
+2025-10-16,Loja Recife,Nordeste,Fone de Ouvido,Eletrônicos,6.0,232.86
+2025-02-27,Loja Brasília,Centro-Oeste,Caneta,Papelaria,9.0,5.0
+2025-12-06,Loja Belo Horizonte,Sudeste,Mesa de Escritório,Móveis,3.0,1034.37
+2025-03-05,Loja Brasília,Centro-Oeste,Notebook,Eletrônicos,2.0,3147.53
+2025-12-08,Loja São Paulo,Sudeste,Cadeira de Escritório,Móveis,1.0,921.27
+2025-11-25,Loja Belo Horizonte,Sudeste,Mesa de Escritório,Móveis,2.0,1155.22
+2025-09-01,Loja São Paulo,Sudeste,Fone de Ouvido,Eletrônicos,5.0,227.82
+2025-11-11,Loja Curitiba,Sul,Cadeira de Escritório,Móveis,3.0,865.6
+2025-11-04,Loja Belo Horizonte,Sudeste,Mesa de Escritório,Móveis,3.0,1149.85
+2025-12-05,Loja São Paulo,Sudeste,Notebook,Eletrônicos,2.0,3368.17
+2025-04-26,Loja Recife,Nordeste,Smartphone,Eletrônicos,5.0,2330.12
+2025-09-01,Loja Belo Horizonte,Sudeste,Caneta,Papelaria,25.0,4.54
+2025-02-10,Loja Belo Horizonte,Sudeste,Cadeira de Escritório,Móveis,3.0,788.44
+2025-09-26,Loja São Paulo,Sudeste,Caderno,Papelaria,6.0,25.31
+2025-03-18,Loja Belo Horizonte,Sudeste,Caderno,Papelaria,19.0,26.94
+2025-08-03,Loja Belo Horizonte,Sudeste,Mesa de Escritório,Móveis,1.0,1318.86
+2025-09-14,Loja Belo Horizonte,Sudeste,Cadeira de Escritório,Móveis,3.0,804.78
+2025-07-28,Loja São Paulo,Sudeste,Mesa de Escritório,Móveis,3.0,
+2025-08-12,Loja Recife,Nordeste,Mochila,Acessórios,9.0,168.71
+2025-11-15,Loja Manaus,Norte,Mouse,Acessórios,12.0,103.15
+2025-11-15,Loja Curitiba,Sul,Fone de Ouvido,Eletrônicos,1.0,227.32
+2025-07-19,Loja Recife,Nordeste,Caneta,Papelaria,12.0,5.53
+2025-09-06,Loja Brasília,Centro-Oeste,Mouse,Acessórios,12.0,85.27
+2025-12-24,Loja Manaus,Norte,Notebook,Eletrônicos,2.0,4063.71
+2025-02-28,Loja Curitiba,Sul,Mochila,Acessórios,1.0,188.52
+2025-02-04,Loja Brasília,Centro-Oeste,Mesa de Escritório,Móveis,1.0,1102.46
+2025-02-23,Loja Brasília,Centro-Oeste,Mouse,Acessórios,11.0,86.24
+2025-10-23,Loja Brasília,Centro-Oeste,Caderno,Papelaria,12.0,26.56
+2025-06-21,Loja Belo Horizonte,Sudeste,Mochila,Acessórios,1.0,195.16
+2025-11-11,Loja São Paulo,Sudeste,Smartphone,Eletrônicos,4.0,2187.55
+2025-10-14,Loja São Paulo,Sudeste,Smartphone,Eletrônicos,1.0,2207.86
+2025-05-24,Loja Curitiba,Sul,Mouse,Acessórios,5.0,95.46
+2025-12-05,Loja Curitiba,Sul,Mesa de Escritório,Móveis,1.0,1212.65
+2025-11-24,Loja Belo Horizonte,Sudeste,Caderno,Papelaria,19.0,22.41
+2025-04-26,Loja Curitiba,Sul,Smartphone,Eletrônicos,3.0,2056.92
+2025-06-20,Loja Curitiba,Sul,Fone de Ouvido,Eletrônicos,7.0,254.7
+2025-05-10,Loja Brasília,Centro-Oeste,Mochila,Acessórios,4.0,197.5
+2025-03-16,Loja São Paulo,Sudeste,Fone de Ouvido,Eletrônicos,2.0,282.32
+2025-03-02,Loja São Paulo,Sudeste,Caderno,Papelaria,6.0,26.56
+2025-12-27,Loja Brasília,Centro-Oeste,Fone de Ouvido,Eletrônicos,2.0,255.75
+2025-07-10,Loja Brasília,Centro-Oeste,Fone de Ouvido,Eletrônicos,4.0,264.98
+2025-06-02,Loja Manaus,Norte,Smartphone,Eletrônicos,1.0,2082.65
+2025-10-23,Loja Brasília,Centro-Oeste,Mouse,Acessórios,5.0,88.9
+2025-08-19,Loja Brasília,Centro-Oeste,Mouse,Acessórios,11.0,84.07
+2025-12-18,Loja Belo Horizonte,Sudeste,Smartphone,Eletrônicos,4.0,1980.22
+2025-11-02,Loja Belo Horizonte,Sudeste,Cadeira de Escritório,Móveis,3.0,872.68
+2025-07-22,Loja Belo Horizonte,Sudeste,Caderno,Papelaria,27.0,25.37
+2025-06-18,Loja Curitiba,Sul,Cadeira de Escritório,Móveis,4.0,896.76
+2025-12-23,Loja Manaus,Norte,Caneta,Papelaria,41.0,5.22
+2025-10-24,Loja Belo Horizonte,Sudeste,Fone de Ouvido,Eletrônicos,7.0,254.85
+2025-12-06,Loja Curitiba,Sul,Notebook,Eletrônicos,1.0,3655.85
+2025-02-06,Loja Belo Horizonte,Sudeste,Cadeira de Escritório,Móveis,4.0,847.1
+2025-11-26,Loja São Paulo,Sudeste,Caderno,Papelaria,10.0,25.83
+2025-09-15,Loja São Paulo,Sudeste,Smartphone,Eletrônicos,4.0,2072.2
+2025-02-13,Loja São Paulo,Sudeste,Mochila,Acessórios,10.0,185.32
+2025-09-09,Loja Manaus,Norte,Notebook,Eletrônicos,2.0,3687.16
+2025-10-18,Loja Belo Horizonte,Sudeste,Notebook,Eletrônicos,1.0,3312.49
+2025-01-22,Loja Brasília,Centro-Oeste,Mesa de Escritório,Móveis,2.0,1204.98
+2025-07-01,Loja Recife,Nordeste,Mesa de Escritório,Móveis,2.0,1140.13
+2025-11-16,Loja São Paulo,Sudeste,Fone de Ouvido,Eletrônicos,8.0,239.47
+2025-05-28,Loja São Paulo,Sudeste,Fone de Ouvido,Eletrônicos,8.0,227.5
+2025-07-08,Loja Brasília,Centro-Oeste,Notebook,Eletrônicos,3.0,3854.42
+2025-07-08,Loja São Paulo,Sudeste,Caderno,Papelaria,,27.13
+2025-05-25,Loja Brasília,Centro-Oeste,Cadeira de Escritório,Móveis,2.0,886.55
+2025-12-02,Loja São Paulo,Sudeste,Smartphone,Eletrônicos,3.0,2547.11
+2025-11-12,Loja Recife,Nordeste,Cadeira de Escritório,Móveis,4.0,837.13
+2025-02-13,Loja Brasília,Centro-Oeste,Mouse,Acessórios,9.0,111.83
+2025-12-23,Loja São Paulo,Sudeste,Fone de Ouvido,Eletrônicos,5.0,245.45
+2025-12-04,Loja Belo Horizonte,Sudeste,Mouse,Acessórios,6.0,91.84
+2025-05-13,Loja Manaus,Norte,Fone de Ouvido,Eletrônicos,6.0,242.04
+2025-11-05,Loja São Paulo,Sudeste,Smartphone,Eletrônicos,4.0,2265.53
+2025-02-23,Loja Belo Horizonte,Sudeste,Fone de Ouvido,Eletrônicos,4.0,266.71
+2025-12-18,Loja Belo Horizonte,Sudeste,Fone de Ouvido,Eletrônicos,1.0,247.72
+2025-10-14,Loja São Paulo,Sudeste,Smartphone,Eletrônicos,1.0,2512.7
+2025-10-12,Loja Recife,Nordeste,Caderno,Papelaria,6.0,25.48
+2025-02-05,Loja Recife,Nordeste,Cadeira de Escritório,Móveis,2.0,868.39
+2025-12-26,Loja Belo Horizonte,Sudeste,Caneta,Papelaria,39.0,4.64
+2025-01-19,Loja Brasília,Centro-Oeste,Mesa de Escritório,Móveis,3.0,1240.18
+2025-04-09,Loja São Paulo,Sudeste,Cadeira de Escritório,Móveis,1.0,840.89
+2025-03-12,Loja São Paulo,Sudeste,Mesa de Escritório,Móveis,3.0,1141.61
+2025-11-21,Loja Curitiba,Sul,Smartphone,Eletrônicos,4.0,2063.34
+2025-03-21,Loja Manaus,Norte,Caneta,Papelaria,7.0,6.07
+2025-12-13,Loja São Paulo,Sudeste,Notebook,Eletrônicos,2.0,3426.23
+2025-10-09,Loja São Paulo,Sudeste,Caneta,Papelaria,21.0,4.42
+2025-01-19,Loja Curitiba,Sul,Mouse,Acessórios,11.0,84.97
+2025-01-19,Loja Brasília,Centro-Oeste,Caneta,Papelaria,56.0,4.98
+2025-01-17,Loja São Paulo,Sudeste,Mesa de Escritório,Móveis,,1252.48
+2025-09-03,Loja Belo Horizonte,Sudeste,Fone de Ouvido,Eletrônicos,5.0,261.1
+2025-11-14,Loja Recife,Nordeste,Mochila,Acessórios,5.0,189.74
+2025-04-18,Loja Belo Horizonte,Sudeste,Fone de Ouvido,Eletrônicos,3.0,237.1
+2025-11-27,Loja São Paulo,Sudeste,Mesa de Escritório,Móveis,3.0,1232.68
+2025-01-15,Loja São Paulo,Sudeste,Caneta,Papelaria,9.0,4.65
+2025-11-10,Loja Belo Horizonte,Sudeste,Mouse,Acessórios,4.0,85.54
+2025-12-16,Loja Curitiba,Sul,Mouse,Acessórios,2.0,83.39
+2025-11-05,Loja Brasília,Centro-Oeste,Notebook,Eletrônicos,2.0,3167.25
+2025-10-03,Loja Recife,Nordeste,Mouse,Acessórios,4.0,97.66
+2025-11-19,Loja Recife,Nordeste,Smartphone,Eletrônicos,1.0,2321.2
+2025-01-28,Loja Manaus,Norte,Caderno,Papelaria,12.0,26.95
+2025-04-24,Loja Belo Horizonte,Sudeste,Mouse,Acessórios,11.0,90.28
+2025-02-17,Loja Belo Horizonte,Sudeste,Caderno,Papelaria,18.0,26.55
+2025-08-02,Loja Manaus,Norte,Mouse,Acessórios,10.0,77.32
+2025-11-28,Loja São Paulo,Sudeste,Cadeira de Escritório,Móveis,4.0,908.69
+2025-09-13,Loja Recife,Nordeste,Fone de Ouvido,Eletrônicos,8.0,253.54
+2025-11-09,Loja Recife,Nordeste,Fone de Ouvido,Eletrônicos,3.0,262.54
+2025-03-25,Loja São Paulo,Sudeste,Cadeira de Escritório,Móveis,4.0,875.84
+2025-10-21,Loja Curitiba,Sul,Caneta,Papelaria,55.0,4.61
+2025-03-21,Loja São Paulo,Sudeste,Mesa de Escritório,Móveis,3.0,1056.19
+2025-04-08,Loja São Paulo,Sudeste,Caneta,Papelaria,24.0,
+2025-10-28,Loja Belo Horizonte,Sudeste,Cadeira de Escritório,Móveis,1.0,888.41
+2025-12-13,Loja Belo Horizonte,Sudeste,Fone de Ouvido,Eletrônicos,5.0,263.8
+2025-09-15,Loja Brasília,Centro-Oeste,Smartphone,Eletrônicos,5.0,1959.24
+2025-01-22,Loja Brasília,Centro-Oeste,Mesa de Escritório,Móveis,3.0,1105.81
+2025-09-19,Loja Brasília,Centro-Oeste,Mouse,Acessórios,7.0,84.79
+2025-01-05,Loja São Paulo,Sudeste,Mochila,Acessórios,2.0,174.85
+2025-12-09,Loja Belo Horizonte,Sudeste,Fone de Ouvido,Eletrônicos,4.0,222.76
+2025-10-11,Loja São Paulo,Sudeste,Mesa de Escritório,Móveis,3.0,1063.48
+2025-03-27,Loja São Paulo,Sudeste,Caneta,Papelaria,36.0,4.67
+2025-02-21,Loja Manaus,Norte,Caderno,Papelaria,12.0,25.17
+2025-03-11,Loja Belo Horizonte,Sudeste,Notebook,Eletrônicos,2.0,3169.43
+2025-12-21,Loja São Paulo,Sudeste,Caderno,Papelaria,3.0,24.77
+2025-07-21,Loja Brasília,Centro-Oeste,Notebook,Eletrônicos,2.0,3796.39
+2025-11-12,Loja Belo Horizonte,Sudeste,Smartphone,Eletrônicos,4.0,1970.89
+2025-09-12,Loja São Paulo,Sudeste,Caderno,Papelaria,8.0,24.59
+2025-09-26,Loja São Paulo,Sudeste,Notebook,Eletrônicos,4.0,3786.93
+2025-03-16,Loja Recife,Nordeste,Cadeira de Escritório,Móveis,1.0,821.56
+2025-12-05,Loja Recife,Nordeste,Caderno,Papelaria,19.0,23.85
+2025-05-21,Loja São Paulo,Sudeste,Caderno,Papelaria,16.0,27.33
+2025-09-17,Loja Manaus,Norte,Mesa de Escritório,Móveis,3.0,1170.6
+2025-10-15,Loja Brasília,Centro-Oeste,Notebook,Eletrônicos,4.0,3809.26
+2025-10-21,Loja Brasília,Centro-Oeste,Mochila,Acessórios,6.0,186.18
+2025-12-26,Loja São Paulo,Sudeste,Mouse,Acessórios,8.0,87.53
+2025-03-10,Loja São Paulo,Sudeste,Mochila,Acessórios,7.0,186.91
+2025-08-12,Loja Brasília,Centro-Oeste,Caneta,Papelaria,34.0,5.13
+2025-06-06,Loja Belo Horizonte,Sudeste,Cadeira de Escritório,Móveis,1.0,919.42
+2025-07-19,Loja Curitiba,Sul,Mochila,Acessórios,5.0,172.1
+2025-02-12,Loja Recife,Nordeste,Mesa de Escritório,Móveis,1.0,1203.96
+2025-03-10,Loja São Paulo,Sudeste,Smartphone,Eletrônicos,3.0,2189.17
+2025-05-20,Loja Recife,Nordeste,Mochila,Acessórios,7.0,190.14
+2025-05-12,Loja Manaus,Norte,Fone de Ouvido,Eletrônicos,2.0,229.5
+2025-07-14,Loja Recife,Nordeste,Mouse,Acessórios,3.0,97.32
+2025-09-13,Loja Belo Horizonte,Sudeste,Cadeira de Escritório,Móveis,4.0,881.71
+2025-09-08,Loja Brasília,Centro-Oeste,Mochila,Acessórios,4.0,161.04
+2025-06-04,Loja Curitiba,Sul,Mesa de Escritório,Móveis,1.0,1315.99
+2025-06-24,Loja Recife,Nordeste,Mesa de Escritório,Móveis,3.0,1414.47
+2025-04-03,Loja Brasília,Centro-Oeste,Fone de Ouvido,Eletrônicos,6.0,270.04
+2025-09-10,Loja Recife,Nordeste,Mochila,Acessórios,9.0,200.55
+2025-05-19,Loja Belo Horizonte,Sudeste,Notebook,Eletrônicos,4.0,3523.9
+2025-01-04,Loja São Paulo,Sudeste,Mesa de Escritório,Móveis,3.0,1040.5
+2025-06-19,Loja São Paulo,Sudeste,Cadeira de Escritório,Móveis,3.0,724.6
+2025-07-21,Loja Curitiba,Sul,Mesa de Escritório,Móveis,1.0,1224.49
+2025-04-19,Loja Curitiba,Sul,Fone de Ouvido,Eletrônicos,7.0,238.16
+2025-09-09,Loja Curitiba,Sul,Caderno,Papelaria,9.0,23.17
+2025-08-01,Loja Belo Horizonte,Sudeste,Cadeira de Escritório,Móveis,2.0,845.73
+2025-10-25,Loja Brasília,Centro-Oeste,Smartphone,Eletrônicos,5.0,2308.34
+2025-09-10,Loja Brasília,Centro-Oeste,Smartphone,Eletrônicos,5.0,1944.31
+2025-10-23,Loja São Paulo,Sudeste,Caneta,Papelaria,24.0,4.82
+2025-05-06,Loja Recife,Nordeste,Fone de Ouvido,Eletrônicos,6.0,280.2
+2025-11-05,Loja Recife,Nordeste,Fone de Ouvido,Eletrônicos,8.0,228.49
+2025-08-22,Loja Curitiba,Sul,Caderno,Papelaria,25.0,26.74
+2025-07-27,Loja São Paulo,Sudeste,Fone de Ouvido,Eletrônicos,1.0,240.31
+2025-09-25,Loja Brasília,Centro-Oeste,Cadeira de Escritório,Móveis,3.0,887.11
+2025-06-22,Loja Manaus,Norte,Fone de Ouvido,Eletrônicos,2.0,271.95
+2025-08-07,Loja Recife,Nordeste,Cadeira de Escritório,Móveis,4.0,900.41
+2025-11-26,Loja Manaus,Norte,Caneta,Papelaria,8.0,5.36
+2025-12-19,Loja Manaus,Norte,Mesa de Escritório,Móveis,3.0,1089.45
+2025-12-05,Loja Belo Horizonte,Sudeste,Mouse,Acessórios,3.0,98.02
+2025-08-04,Loja Recife,Nordeste,Caneta,Papelaria,28.0,4.66
+2025-08-25,Loja Curitiba,Sul,Notebook,Eletrônicos,1.0,3572.67
+2025-11-08,Loja Manaus,Norte,Cadeira de Escritório,Móveis,4.0,867.56
+2025-05-22,Loja São Paulo,Sudeste,Fone de Ouvido,Eletrônicos,4.0,259.7
+2025-11-04,Loja Belo Horizonte,Sudeste,Caderno,Papelaria,23.0,25.67
+2025-07-08,Loja Brasília,Centro-Oeste,Fone de Ouvido,Eletrônicos,1.0,233.12
+2025-02-08,Loja Belo Horizonte,Sudeste,Mouse,Acessórios,6.0,80.28
+2025-02-08,Loja Brasília,Centro-Oeste,Fone de Ouvido,Eletrônicos,8.0,267.45
+2025-11-19,Loja Belo Horizonte,Sudeste,Mesa de Escritório,Móveis,,1217.84
+2025-01-26,Loja Manaus,Norte,Smartphone,Eletrônicos,2.0,2402.29
+2025-05-26,Loja Brasília,Centro-Oeste,Mouse,Acessórios,5.0,
+2025-05-21,Loja Belo Horizonte,Sudeste,Mouse,Acessórios,5.0,79.88
+2025-03-06,Loja Recife,Nordeste,Mochila,Acessórios,6.0,193.91
+2025-05-27,Loja Belo Horizonte,Sudeste,Cadeira de Escritório,Móveis,3.0,824.81
+2025-11-16,Loja Curitiba,Sul,Notebook,Eletrônicos,1.0,3595.76
+2025-01-16,Loja Recife,Nordeste,Caneta,Papelaria,47.0,4.74
+2025-11-20,Loja Brasília,Centro-Oeste,Cadeira de Escritório,Móveis,1.0,961.81
+2025-12-22,Loja São Paulo,Sudeste,Mouse,Acessórios,4.0,83.69
+2025-06-27,Loja São Paulo,Sudeste,Caneta,Papelaria,52.0,4.87
+2025-03-17,Loja Recife,Nordeste,Mesa de Escritório,Móveis,3.0,1210.32
+2025-09-18,Loja Curitiba,Sul,Mouse,Acessórios,5.0,82.14
+2025-02-21,Loja Curitiba,Sul,Mochila,Acessórios,10.0,184.76
+2025-06-08,Loja São Paulo,Sudeste,Mesa de Escritório,Móveis,,1354.74
+2025-12-09,Loja Belo Horizonte,Sudeste,Notebook,Eletrônicos,3.0,3362.67
+2025-12-18,Loja Brasília,Centro-Oeste,Notebook,Eletrônicos,1.0,3610.64
+2025-11-02,Loja São Paulo,Sudeste,Cadeira de Escritório,Móveis,1.0,
+2025-05-09,Loja Belo Horizonte,Sudeste,Caderno,Papelaria,16.0,24.92
+2025-10-21,Loja Manaus,Norte,Notebook,Eletrônicos,3.0,3412.35
+2025-10-28,Loja São Paulo,Sudeste,Smartphone,Eletrônicos,5.0,2055.94
+2025-06-15,Loja Recife,Nordeste,Caneta,Papelaria,26.0,5.43
+2025-09-12,Loja São Paulo,Sudeste,Caneta,Papelaria,55.0,4.87
+2025-01-13,Loja Brasília,Centro-Oeste,Notebook,Eletrônicos,3.0,3450.31
+2025-04-20,Loja Recife,Nordeste,Mesa de Escritório,Móveis,1.0,
+2025-08-16,Loja Brasília,Centro-Oeste,Notebook,Eletrônicos,3.0,2963.29
+2025-03-01,Loja São Paulo,Sudeste,Caneta,Papelaria,37.0,4.55
+2025-03-16,Loja Curitiba,Sul,Mochila,Acessórios,4.0,193.84
+2025-11-12,Loja Recife,Nordeste,Mochila,Acessórios,5.0,149.62
+2025-12-20,Loja São Paulo,Sudeste,Caderno,Papelaria,10.0,23.47
+2025-08-25,Loja São Paulo,Sudeste,Caderno,Papelaria,19.0,24.2
+2025-11-27,Loja São Paulo,Sudeste,Mouse,Acessórios,7.0,102.55
+2025-12-18,Loja Manaus,Norte,Caderno,Papelaria,14.0,26.54
+2025-03-11,Loja Recife,Nordeste,Mesa de Escritório,Móveis,1.0,1146.51
+2025-07-13,Loja Recife,Nordeste,Caneta,Papelaria,27.0,5.52
+2025-06-05,Loja Recife,Nordeste,Caderno,Papelaria,16.0,23.52
+2025-02-27,Loja Curitiba,Sul,Mochila,Acessórios,5.0,194.53
+2025-11-24,Loja Curitiba,Sul,Mesa de Escritório,Móveis,1.0,1069.55
+2025-07-24,Loja Belo Horizonte,Sudeste,Mochila,Acessórios,6.0,195.45
+2025-07-10,Loja Recife,Nordeste,Notebook,Eletrônicos,1.0,3386.28
+2025-03-10,Loja São Paulo,Sudeste,Notebook,Eletrônicos,3.0,3212.02
+2025-03-24,Loja Brasília,Centro-Oeste,Notebook,Eletrônicos,1.0,3439.2
+2025-12-16,Loja Brasília,Centro-Oeste,Caderno,Papelaria,15.0,25.55
+2025-01-20,Loja Belo Horizonte,Sudeste,Caneta,Papelaria,48.0,4.8
+2025-04-14,Loja Curitiba,Sul,Smartphone,Eletrônicos,5.0,2297.5
+2025-05-13,Loja São Paulo,Sudeste,Smartphone,Eletrônicos,4.0,2097.39
+2025-07-18,Loja Manaus,Norte,Mochila,Acessórios,8.0,188.93
+2025-09-23,Loja Brasília,Centro-Oeste,Caneta,Papelaria,8.0,5.18
+2025-07-10,Loja Manaus,Norte,Caderno,Papelaria,11.0,24.88
+2025-02-23,Loja Belo Horizonte,Sudeste,Mesa de Escritório,Móveis,2.0,1157.63
+2025-04-07,Loja São Paulo,Sudeste,Cadeira de Escritório,Móveis,4.0,860.3
+2025-11-12,Loja São Paulo,Sudeste,Notebook,Eletrônicos,3.0,3654.07
+2025-09-26,Loja São Paulo,Sudeste,Smartphone,Eletrônicos,5.0,2562.88
+2025-10-27,Loja São Paulo,Sudeste,Mouse,Acessórios,4.0,96.76
+2025-10-26,Loja São Paulo,Sudeste,Cadeira de Escritório,Móveis,1.0,916.37
+2025-11-09,Loja Manaus,Norte,Caneta,Papelaria,9.0,6.24
+2025-01-24,Loja São Paulo,Sudeste,Caneta,Papelaria,,5.21
+2025-06-27,Loja São Paulo,Sudeste,Fone de Ouvido,Eletrônicos,6.0,259.69
+2025-08-28,Loja Brasília,Centro-Oeste,Smartphone,Eletrônicos,2.0,2323.91
+2025-05-01,Loja Curitiba,Sul,Caneta,Papelaria,48.0,4.6
+2025-11-21,Loja Recife,Nordeste,Notebook,Eletrônicos,3.0,3375.71
+2025-07-28,Loja Curitiba,Sul,Mesa de Escritório,Móveis,2.0,
+2025-11-22,Loja Brasília,Centro-Oeste,Mochila,Acessórios,3.0,189.33
+2025-11-07,Loja Recife,Nordeste,Caneta,Papelaria,46.0,4.93
+2025-08-22,Loja Curitiba,Sul,Caneta,Papelaria,42.0,5.06
+2025-12-03,Loja Recife,Nordeste,Notebook,Eletrônicos,1.0,3804.49
+2025-09-14,Loja Belo Horizonte,Sudeste,Smartphone,Eletrônicos,2.0,2351.91
+2025-11-18,Loja Belo Horizonte,Sudeste,Fone de Ouvido,Eletrônicos,4.0,246.77
+2025-05-13,Loja Curitiba,Sul,Fone de Ouvido,Eletrônicos,5.0,236.6
+2025-08-20,Loja São Paulo,Sudeste,Smartphone,Eletrônicos,1.0,2399.81
+2025-08-07,Loja Brasília,Centro-Oeste,Mouse,Acessórios,12.0,95.57
+2025-02-17,Loja São Paulo,Sudeste,Smartphone,Eletrônicos,2.0,1917.3
+2025-06-19,Loja São Paulo,Sudeste,Caneta,Papelaria,26.0,4.87
+2025-12-18,Loja São Paulo,Sudeste,Caderno,Papelaria,3.0,25.33
+2025-09-09,Loja Brasília,Centro-Oeste,Caderno,Papelaria,27.0,26.56
+2025-03-09,Loja Belo Horizonte,Sudeste,Smartphone,Eletrônicos,2.0,2360.18
+2025-05-08,Loja Recife,Nordeste,Fone de Ouvido,Eletrônicos,8.0,255.68
+2025-03-13,Loja Brasília,Centro-Oeste,Caderno,Papelaria,16.0,26.17
+2025-01-17,Loja São Paulo,Sudeste,Fone de Ouvido,Eletrônicos,7.0,251.28
+2025-12-11,Loja Recife,Nordeste,Caneta,Papelaria,15.0,4.73
+2025-07-12,Loja Belo Horizonte,Sudeste,Notebook,Eletrônicos,1.0,3426.85
+2025-05-09,Loja São Paulo,Sudeste,Notebook,Eletrônicos,4.0,3505.32
+2025-09-07,Loja Recife,Nordeste,Caneta,Papelaria,50.0,4.99
+2025-01-19,Loja Brasília,Centro-Oeste,Caderno,Papelaria,17.0,21.23
+2025-05-23,Loja Belo Horizonte,Sudeste,Notebook,Eletrônicos,1.0,3388.7
+2025-10-09,Loja Curitiba,Sul,Mouse,Acessórios,12.0,90.4
+2025-09-25,Loja Belo Horizonte,Sudeste,Notebook,Eletrônicos,2.0,3421.22
+2025-12-16,Loja Curitiba,Sul,Mouse,Acessórios,12.0,88.22
+2025-09-05,Loja Curitiba,Sul,Caneta,Papelaria,53.0,5.2
+2025-07-11,Loja Curitiba,Sul,Mouse,Acessórios,11.0,82.23
+2025-11-01,Loja Curitiba,Sul,Mouse,Acessórios,9.0,78.28
+2025-12-02,Loja São Paulo,Sudeste,Fone de Ouvido,Eletrônicos,6.0,243.04
+2025-10-10,Loja Recife,Nordeste,Caneta,Papelaria,34.0,5.31
+2025-12-13,Loja Recife,Nordeste,Smartphone,Eletrônicos,1.0,2497.01
+2025-11-23,Loja Recife,Nordeste,Mesa de Escritório,Móveis,2.0,1275.08
+2025-12-04,Loja São Paulo,Sudeste,Fone de Ouvido,Eletrônicos,6.0,220.63
+2025-02-24,Loja Belo Horizonte,Sudeste,Mesa de Escritório,Móveis,3.0,1177.69
+2025-10-07,Loja Belo Horizonte,Sudeste,Mochila,Acessórios,6.0,183.7
+2025-07-04,Loja São Paulo,Sudeste,Cadeira de Escritório,Móveis,3.0,862.08
+2025-08-20,Loja São Paulo,Sudeste,Notebook,Eletrônicos,1.0,3651.01
+2025-10-22,Loja Belo Horizonte,Sudeste,Fone de Ouvido,Eletrônicos,4.0,231.66
+2025-12-17,Loja Recife,Nordeste,Mochila,Acessórios,6.0,180.94
+2025-12-04,Loja São Paulo,Sudeste,Mesa de Escritório,Móveis,3.0,1240.35
+2025-05-04,Loja Brasília,Centro-Oeste,Caderno,Papelaria,11.0,26.65
+2025-10-11,Loja Curitiba,Sul,Cadeira de Escritório,Móveis,1.0,
+2025-11-13,Loja Recife,Nordeste,Fone de Ouvido,Eletrônicos,3.0,243.1
+2025-05-28,Loja Curitiba,Sul,Caderno,Papelaria,6.0,19.59
+2025-02-09,Loja Curitiba,Sul,Caderno,Papelaria,18.0,23.76
+2025-01-06,Loja Curitiba,Sul,Mouse,Acessórios,8.0,86.22
+2025-11-27,Loja Manaus,Norte,Caderno,Papelaria,25.0,22.96
+2025-07-05,Loja Curitiba,Sul,Mouse,Acessórios,12.0,91.19
+2025-12-01,Loja Curitiba,Sul,Mochila,Acessórios,1.0,179.19
+2025-07-12,Loja Curitiba,Sul,Notebook,Eletrônicos,1.0,2867.42
+2025-12-12,Loja Recife,Nordeste,Cadeira de Escritório,Móveis,2.0,864.65
+2025-06-18,Loja São Paulo,Sudeste,Cadeira de Escritório,Móveis,1.0,786.87
+2025-11-25,Loja Curitiba,Sul,Notebook,Eletrônicos,4.0,3635.99
+2025-02-27,Loja Curitiba,Sul,Smartphone,Eletrônicos,1.0,1974.39
+2025-08-09,Loja Manaus,Norte,Caneta,Papelaria,6.0,5.01
+2025-11-28,Loja Curitiba,Sul,Cadeira de Escritório,Móveis,4.0,830.74
+2025-12-18,Loja Curitiba,Sul,Smartphone,Eletrônicos,5.0,2253.35
+2025-11-02,Loja Manaus,Norte,Fone de Ouvido,Eletrônicos,2.0,252.49
+2025-01-27,Loja Belo Horizonte,Sudeste,Fone de Ouvido,Eletrônicos,3.0,244.9
+2025-06-04,Loja São Paulo,Sudeste,Smartphone,Eletrônicos,3.0,1929.62
+2025-01-17,Loja São Paulo,Sudeste,Notebook,Eletrônicos,3.0,3086.38
+2025-02-23,Loja São Paulo,Sudeste,Caneta,Papelaria,,4.77
+2025-10-07,Loja São Paulo,Sudeste,Mochila,Acessórios,5.0,179.88
+2025-10-08,Loja Belo Horizonte,Sudeste,Mesa de Escritório,Móveis,1.0,1141.61
+2025-11-14,Loja Recife,Nordeste,Caderno,Papelaria,14.0,26.25
+2025-12-25,Loja Recife,Nordeste,Mouse,Acessórios,7.0,87.99
+2025-11-07,Loja São Paulo,Sudeste,Mochila,Acessórios,6.0,166.1
+2025-11-19,Loja Curitiba,Sul,Notebook,Eletrônicos,3.0,3422.13
+2025-01-13,Loja São Paulo,Sudeste,Mouse,Acessórios,12.0,91.63
+2025-04-04,Loja Manaus,Norte,Notebook,Eletrônicos,4.0,3590.97
+2025-09-20,Loja São Paulo,Sudeste,Notebook,Eletrônicos,2.0,4025.95
+2025-12-24,Loja Curitiba,Sul,Cadeira de Escritório,Móveis,2.0,804.51
+2025-01-17,Loja Belo Horizonte,Sudeste,Caneta,Papelaria,,4.97
+2025-08-05,Loja Recife,Nordeste,Notebook,Eletrônicos,2.0,3619.31
+2025-10-05,Loja Belo Horizonte,Sudeste,Fone de Ouvido,Eletrônicos,4.0,249.53
+2025-01-12,Loja Recife,Nordeste,Fone de Ouvido,Eletrônicos,2.0,239.99
+2025-06-15,Loja São Paulo,Sudeste,Cadeira de Escritório,Móveis,2.0,744.65
+2025-12-16,Loja Brasília,Centro-Oeste,Mouse,Acessórios,,86.32
+2025-10-07,Loja Curitiba,Sul,Fone de Ouvido,Eletrônicos,7.0,228.53
+2025-04-15,Loja Recife,Nordeste,Smartphone,Eletrônicos,4.0,1896.12
+2025-11-09,Loja Brasília,Centro-Oeste,Smartphone,Eletrônicos,2.0,2059.96
+2025-05-20,Loja Manaus,Norte,Smartphone,Eletrônicos,1.0,2015.71
+2025-11-23,Loja São Paulo,Sudeste,Smartphone,Eletrônicos,1.0,2302.75
+2025-05-19,Loja Belo Horizonte,Sudeste,Caderno,Papelaria,13.0,26.2
+2025-09-01,Loja São Paulo,Sudeste,Cadeira de Escritório,Móveis,3.0,788.54
+2025-06-28,Loja São Paulo,Sudeste,Mesa de Escritório,Móveis,3.0,
+2025-05-01,Loja Curitiba,Sul,Mochila,Acessórios,9.0,153.24
+2025-12-28,Loja Manaus,Norte,Caderno,Papelaria,2.0,24.01
+2025-03-01,Loja Manaus,Norte,Smartphone,Eletrônicos,4.0,2270.22
+2025-02-15,Loja Curitiba,Sul,Cadeira de Escritório,Móveis,2.0,906.1
+2025-05-03,Loja Recife,Nordeste,Fone de Ouvido,Eletrônicos,2.0,235.74
+2025-10-03,Loja Brasília,Centro-Oeste,Mochila,Acessórios,6.0,195.15
+2025-11-20,Loja Manaus,Norte,Fone de Ouvido,Eletrônicos,1.0,219.69
+2025-12-21,Loja São Paulo,Sudeste,Smartphone,Eletrônicos,2.0,1980.42
+2025-05-04,Loja Curitiba,Sul,Caneta,Papelaria,35.0,5.28
+2025-06-28,Loja Brasília,Centro-Oeste,Cadeira de Escritório,Móveis,2.0,963.64
+2025-03-09,Loja Belo Horizonte,Sudeste,Notebook,Eletrônicos,3.0,3638.16
+2025-09-09,Loja Belo Horizonte,Sudeste,Caneta,Papelaria,30.0,4.98
+2025-12-09,Loja Manaus,Norte,Smartphone,Eletrônicos,4.0,1813.65
+2025-10-13,Loja Manaus,Norte,Mochila,Acessórios,2.0,150.88
+2025-09-05,Loja Brasília,Centro-Oeste,Mochila,Acessórios,1.0,181.86
+2025-06-12,Loja Brasília,Centro-Oeste,Cadeira de Escritório,Móveis,3.0,825.65
+2025-12-06,Loja Belo Horizonte,Sudeste,Caderno,Papelaria,9.0,22.79
+2025-08-02,Loja Belo Horizonte,Sudeste,Caderno,Papelaria,22.0,25.13
+2025-03-11,Loja Curitiba,Sul,Caderno,Papelaria,4.0,25.23
+2025-06-19,Loja Curitiba,Sul,Notebook,Eletrônicos,3.0,3764.44
+2025-02-22,Loja Curitiba,Sul,Fone de Ouvido,Eletrônicos,8.0,252.73
+2025-04-10,Loja Recife,Nordeste,Smartphone,Eletrônicos,1.0,2416.2
+2025-01-10,Loja Belo Horizonte,Sudeste,Caneta,Papelaria,21.0,5.0
+2025-07-23,Loja Recife,Nordeste,Notebook,Eletrônicos,4.0,3467.71
+2025-09-20,Loja Belo Horizonte,Sudeste,Mesa de Escritório,Móveis,2.0,1302.17
+2025-05-24,Loja Belo Horizonte,Sudeste,Caneta,Papelaria,14.0,4.61
+2025-06-26,Loja São Paulo,Sudeste,Mouse,Acessórios,3.0,110.26
+2025-12-23,Loja São Paulo,Sudeste,Fone de Ouvido,Eletrônicos,7.0,257.51
+2025-11-27,Loja Brasília,Centro-Oeste,Notebook,Eletrônicos,4.0,3606.63
+2025-08-12,Loja Belo Horizonte,Sudeste,Caneta,Papelaria,25.0,5.21
+2025-05-12,Loja São Paulo,Sudeste,Notebook,Eletrônicos,2.0,4025.6
+2025-12-10,Loja Recife,Nordeste,Notebook,Eletrônicos,4.0,3721.9
+2025-04-07,Loja Curitiba,Sul,Mouse,Acessórios,3.0,78.44
+2025-05-21,Loja São Paulo,Sudeste,Mochila,Acessórios,3.0,200.21
+2025-12-21,Loja Belo Horizonte,Sudeste,Caneta,Papelaria,48.0,4.86
+2025-08-23,Loja São Paulo,Sudeste,Mochila,Acessórios,2.0,181.54
+2025-11-05,Loja Recife,Nordeste,Notebook,Eletrônicos,4.0,3141.81
+2025-09-14,Loja Belo Horizonte,Sudeste,Notebook,Eletrônicos,2.0,3647.34
+2025-10-07,Loja São Paulo,Sudeste,Fone de Ouvido,Eletrônicos,8.0,236.97
+2025-05-26,Loja São Paulo,Sudeste,Notebook,Eletrônicos,1.0,3528.05
+2025-04-08,Loja Curitiba,Sul,Mochila,Acessórios,10.0,175.91
+2025-05-05,Loja São Paulo,Sudeste,Notebook,Eletrônicos,1.0,4039.0
+2025-03-16,Loja Brasília,Centro-Oeste,Mesa de Escritório,Móveis,1.0,1390.3
+2025-12-25,Loja São Paulo,Sudeste,Mochila,Acessórios,8.0,
+2025-05-26,Loja Curitiba,Sul,Caneta,Papelaria,34.0,5.03
+2025-08-03,Loja Belo Horizonte,Sudeste,Fone de Ouvido,Eletrônicos,7.0,242.53
+2025-11-10,Loja Belo Horizonte,Sudeste,Mesa de Escritório,Móveis,1.0,1306.18
+2025-11-05,Loja São Paulo,Sudeste,Mesa de Escritório,Móveis,1.0,1168.42
+2025-07-09,Loja Brasília,Centro-Oeste,Caneta,Papelaria,36.0,4.83
+2025-07-15,Loja Brasília,Centro-Oeste,Cadeira de Escritório,Móveis,4.0,916.54
+2025-12-08,Loja São Paulo,Sudeste,Fone de Ouvido,Eletrônicos,4.0,239.23
+2025-10-02,Loja São Paulo,Sudeste,Mochila,Acessórios,8.0,179.46
+2025-11-15,Loja Brasília,Centro-Oeste,Mochila,Acessórios,10.0,157.23
+2025-12-02,Loja Curitiba,Sul,Mesa de Escritório,Móveis,3.0,1267.6
+2025-11-07,Loja São Paulo,Sudeste,Notebook,Eletrônicos,3.0,4043.44
+2025-03-01,Loja São Paulo,Sudeste,Mesa de Escritório,Móveis,3.0,1269.24
+2025-08-03,Loja Recife,Nordeste,Mouse,Acessórios,7.0,100.52
+2025-02-13,Loja Recife,Nordeste,Mouse,Acessórios,9.0,83.91
+2025-10-24,Loja Curitiba,Sul,Cadeira de Escritório,Móveis,3.0,866.07
+2025-12-22,Loja Manaus,Norte,Smartphone,Eletrônicos,3.0,2034.0
+2025-08-03,Loja Curitiba,Sul,Caderno,Papelaria,14.0,24.54
+2025-07-01,Loja Belo Horizonte,Sudeste,Mochila,Acessórios,7.0,191.12
+2025-01-10,Loja Curitiba,Sul,Mouse,Acessórios,10.0,90.73
+2025-12-19,Loja Belo Horizonte,Sudeste,Notebook,Eletrônicos,4.0,3104.46
+2025-02-21,Loja São Paulo,Sudeste,Fone de Ouvido,Eletrônicos,5.0,223.7
+2025-01-24,Loja São Paulo,Sudeste,Mesa de Escritório,Móveis,1.0,1067.41
+2025-04-10,Loja Belo Horizonte,Sudeste,Notebook,Eletrônicos,3.0,3637.61
+2025-02-05,Loja Recife,Nordeste,Mochila,Acessórios,4.0,209.72
+2025-07-01,Loja São Paulo,Sudeste,Smartphone,Eletrônicos,1.0,2439.79
+2025-08-05,Loja Belo Horizonte,Sudeste,Caderno,Papelaria,4.0,
+2025-05-02,Loja Recife,Nordeste,Mouse,Acessórios,8.0,100.23
+2025-01-25,Loja Curitiba,Sul,Caneta,Papelaria,57.0,5.37
+2025-02-08,Loja Recife,Nordeste,Caneta,Papelaria,33.0,4.38
+2025-06-24,Loja Brasília,Centro-Oeste,Fone de Ouvido,Eletrônicos,4.0,243.94
+2025-01-16,Loja Recife,Nordeste,Mochila,Acessórios,1.0,195.78
+2025-10-16,Loja São Paulo,Sudeste,Cadeira de Escritório,Móveis,3.0,887.43
+2025-04-13,Loja Curitiba,Sul,Notebook,Eletrônicos,1.0,3133.45
+2025-05-23,Loja Curitiba,Sul,Cadeira de Escritório,Móveis,4.0,891.53
+2025-06-02,Loja São Paulo,Sudeste,Cadeira de Escritório,Móveis,4.0,704.65
+2025-06-03,Loja São Paulo,Sudeste,Mesa de Escritório,Móveis,3.0,1178.61
+2025-01-12,Loja São Paulo,Sudeste,Fone de Ouvido,Eletrônicos,3.0,272.76
+2025-02-12,Loja Belo Horizonte,Sudeste,Mesa de Escritório,Móveis,1.0,1201.77
+2025-12-16,Loja Belo Horizonte,Sudeste,Cadeira de Escritório,Móveis,2.0,816.07
+2025-01-21,Loja São Paulo,Sudeste,Fone de Ouvido,Eletrônicos,7.0,267.79
+2025-08-17,Loja Brasília,Centro-Oeste,Caneta,Papelaria,17.0,5.39
+2025-07-08,Loja Manaus,Norte,Fone de Ouvido,Eletrônicos,8.0,276.2
+2025-05-10,Loja São Paulo,Sudeste,Caneta,Papelaria,13.0,5.35
+2025-07-22,Loja Manaus,Norte,Fone de Ouvido,Eletrônicos,1.0,271.63
+2025-11-06,Loja São Paulo,Sudeste,Mochila,Acessórios,3.0,190.55
+2025-11-15,Loja Manaus,Norte,Cadeira de Escritório,Móveis,4.0,868.06
+2025-04-16,Loja Manaus,Norte,Notebook,Eletrônicos,3.0,3525.06
+2025-05-22,Loja São Paulo,Sudeste,Smartphone,Eletrônicos,2.0,2158.24
+2025-04-21,Loja Recife,Nordeste,Mochila,Acessórios,7.0,162.54
+2025-07-14,Loja Manaus,Norte,Mochila,Acessórios,7.0,166.24
+2025-10-09,Loja Brasília,Centro-Oeste,Smartphone,Eletrônicos,3.0,2150.37
+2025-04-11,Loja Manaus,Norte,Caderno,Papelaria,16.0,25.48
+2025-05-12,Loja Curitiba,Sul,Caderno,Papelaria,4.0,27.88
+2025-12-07,Loja São Paulo,Sudeste,Smartphone,Eletrônicos,2.0,2192.64
+2025-01-18,Loja Brasília,Centro-Oeste,Mesa de Escritório,Móveis,2.0,1296.33
+2025-07-06,Loja Curitiba,Sul,Caneta,Papelaria,12.0,5.43
+2025-10-19,Loja Curitiba,Sul,Mouse,Acessórios,6.0,88.33
+2025-03-22,Loja Belo Horizonte,Sudeste,Mochila,Acessórios,2.0,188.56
+2025-01-27,Loja Curitiba,Sul,Notebook,Eletrônicos,4.0,3431.81
+2025-03-04,Loja São Paulo,Sudeste,Fone de Ouvido,Eletrônicos,1.0,276.44
+2025-12-22,Loja Recife,Nordeste,Cadeira de Escritório,Móveis,1.0,893.24
+2025-01-03,Loja São Paulo,Sudeste,Smartphone,Eletrônicos,4.0,1990.47
+2025-03-10,Loja Recife,Nordeste,Caderno,Papelaria,8.0,25.32
+2025-01-05,Loja Brasília,Centro-Oeste,Notebook,Eletrônicos,2.0,3961.47
+2025-02-05,Loja Curitiba,Sul,Smartphone,Eletrônicos,2.0,2168.1
+2025-09-05,Loja Curitiba,Sul,Notebook,Eletrônicos,1.0,3625.36
+2025-04-02,Loja Belo Horizonte,Sudeste,Fone de Ouvido,Eletrônicos,7.0,260.92
+2025-09-24,Loja Manaus,Norte,Caneta,Papelaria,43.0,4.59
+2025-09-02,Loja Recife,Nordeste,Smartphone,Eletrônicos,2.0,2289.88
+2025-11-12,Loja Belo Horizonte,Sudeste,Mouse,Acessórios,9.0,79.96
+2025-01-20,Loja São Paulo,Sudeste,Fone de Ouvido,Eletrônicos,6.0,237.49
+2025-11-28,Loja São Paulo,Sudeste,Notebook,Eletrônicos,3.0,3801.2
+2025-09-24,Loja Belo Horizonte,Sudeste,Cadeira de Escritório,Móveis,3.0,874.26
+2025-03-04,Loja Manaus,Norte,Caneta,Papelaria,57.0,4.88
+2025-11-28,Loja Recife,Nordeste,Notebook,Eletrônicos,2.0,3625.01
+2025-11-19,Loja São Paulo,Sudeste,Notebook,Eletrônicos,2.0,3483.17
+2025-04-06,Loja Brasília,Centro-Oeste,Mochila,Acessórios,6.0,180.18
+2025-12-13,Loja Belo Horizonte,Sudeste,Caderno,Papelaria,26.0,26.31
+2025-07-26,Loja Brasília,Centro-Oeste,Cadeira de Escritório,Móveis,3.0,800.54
+2025-09-12,Loja São Paulo,Sudeste,Caneta,Papelaria,9.0,5.02
+2025-12-06,Loja Curitiba,Sul,Mochila,Acessórios,5.0,175.5
+2025-06-25,Loja Manaus,Norte,Cadeira de Escritório,Móveis,3.0,742.18
+2025-11-27,Loja São Paulo,Sudeste,Caderno,Papelaria,8.0,23.16
+2025-05-28,Loja Recife,Nordeste,Notebook,Eletrônicos,4.0,3939.1
+2025-11-27,Loja Manaus,Norte,Fone de Ouvido,Eletrônicos,7.0,257.69
+2025-09-25,Loja São Paulo,Sudeste,Caderno,Papelaria,26.0,22.35
+2025-04-13,Loja São Paulo,Sudeste,Smartphone,Eletrônicos,1.0,1928.9
+2025-06-06,Loja Recife,Nordeste,Mouse,Acessórios,7.0,89.19
+2025-05-18,Loja Belo Horizonte,Sudeste,Mouse,Acessórios,7.0,101.24
+2025-02-07,Loja São Paulo,Sudeste,Fone de Ouvido,Eletrônicos,6.0,246.26
+2025-01-14,Loja Curitiba,Sul,Cadeira de Escritório,Móveis,4.0,938.88
+2025-05-19,Loja Recife,Nordeste,Smartphone,Eletrônicos,2.0,2261.94
+2025-01-27,Loja Belo Horizonte,Sudeste,Mesa de Escritório,Móveis,2.0,1245.24
+2025-03-09,Loja Belo Horizonte,Sudeste,Smartphone,Eletrônicos,4.0,1964.91
+2025-10-08,Loja Brasília,Centro-Oeste,Cadeira de Escritório,Móveis,4.0,913.75
+2025-10-21,Loja Curitiba,Sul,Mesa de Escritório,Móveis,3.0,1167.85

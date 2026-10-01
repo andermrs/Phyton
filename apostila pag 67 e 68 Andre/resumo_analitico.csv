@@ -1,0 +1,27 @@
+﻿indicador,detalhe,valor
+Faturamento total,todas as lojas,2286019.3
+Número de vendas,todas as lojas,800.0
+Faturamento por loja,Loja São Paulo,687807.59
+Faturamento por loja,Loja Belo Horizonte,423196.25
+Faturamento por loja,Loja Curitiba,336843.24
+Faturamento por loja,Loja Brasília,321727.1
+Faturamento por loja,Loja Recife,314719.85
+Faturamento por loja,Loja Manaus,201725.27
+Ticket médio por loja,Loja São Paulo,3199.11
+Ticket médio por loja,Loja Brasília,3035.16
+Ticket médio por loja,Loja Recife,2914.07
+Ticket médio por loja,Loja Belo Horizonte,2748.03
+Ticket médio por loja,Loja Manaus,2586.22
+Ticket médio por loja,Loja Curitiba,2423.33
+Top 5 produtos (quantidade),Caneta,2865.0
+Top 5 produtos (quantidade),Caderno,942.0
+Top 5 produtos (quantidade),Mouse,608.0
+Top 5 produtos (quantidade),Fone de Ouvido,525.0
+Top 5 produtos (quantidade),Mochila,425.0
+Faturamento por região,Sudeste,1111003.83
+Faturamento por região,Sul,336843.24
+Faturamento por região,Centro-Oeste,321727.1
+Faturamento por região,Nordeste,314719.85
+Faturamento por região,Norte,201725.27
+Mês de maior faturamento,Novembro/2025,409662.05
+Mês de menor faturamento,Agosto/2025,95548.83
